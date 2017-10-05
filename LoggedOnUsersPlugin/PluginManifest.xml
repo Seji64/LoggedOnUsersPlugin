@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WsapmPlugin>
+  <DescriptionSet lang="en">
+    <PluginName>LoggedOnUsers</PluginName>
+    <Description>Plugin for standby suppression if any removable devices are present</Description>
+    <AuthorName>Seji</AuthorName>
+  </DescriptionSet>
+
+  <DescriptionSet lang="de">
+    <PluginName>LoggedOnUsers</PluginName>
+    <Description>Plugin zum Unterdrücken des Standby wenn ein oder mehrere definierte Benutzer angemeldet und aktiv sind</Description>
+    <AuthorName>Seji</AuthorName>
+  </DescriptionSet>
+</WsapmPlugin>
