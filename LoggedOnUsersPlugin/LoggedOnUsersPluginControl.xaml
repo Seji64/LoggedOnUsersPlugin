@@ -11,12 +11,6 @@
     d:DesignWidth="400"
     mc:Ignorable="d">
 
-    <UserControl.Resources>
-        <local:BoolToVisibilityConverter x:Key="visibilityboolConverter" />
-        <local:InverseBooleanConverter x:Key="inverseboolConverter" />
-    </UserControl.Resources>
-
-
     <DockPanel LastChildFill="True">
 
         <GroupBox

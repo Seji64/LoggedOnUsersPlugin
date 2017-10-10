@@ -137,8 +137,6 @@
       <DependentUpon>LoggedOnUsersPluginControl.xaml</DependentUpon>
     </Compile>
     <Compile Include="UserHelper.vb" />
-    <Compile Include="WPF Helper Classes\Converter\BoolToVisibilityConverter.vb" />
-    <Compile Include="WPF Helper Classes\Converter\InverseBooleanConverter.vb" />
     <Compile Include="WPF Helper Classes\FixedWidthColumn.vb" />
     <Compile Include="WPF Helper Classes\PropertyChangedBase.vb" />
     <Compile Include="Models\LoggedOnUsersPluginSettings.vb" />
